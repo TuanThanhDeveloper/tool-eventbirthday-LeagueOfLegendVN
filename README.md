@@ -1,5 +1,7 @@
 Tool tự động nhập mã sinh nhật của các người chơi khác.
 
+Tải file exe tại: https://drive.google.com/drive/folders/179lT16X19dmVtYYpGYqs_GizhYBiKAX9?usp=sharing
+
 Yêu cầu (nếu bạn có file application .exe bỏ qua yêu cầu này) : + Cài đặt Python 3 trên https://www.python.org/downloads/
                                                                + Cài đặt thư viện pyqt5 và pyautogui bằng cách: pip install pyqt5, pip install pyautogui
          

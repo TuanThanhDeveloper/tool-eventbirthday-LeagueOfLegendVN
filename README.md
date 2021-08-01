@@ -14,6 +14,8 @@ Yêu cầu (nếu bạn có file application .exe bỏ qua yêu cầu này) :
           pip install pyautogui
         
 Lưu ý:
+   + Run as Administrator
+   
    + tải tất cả các file về cho vào cùng 1 thư mục 
 
    + tool hoạt động sẽ sử dụng chuột nên không thể sử dụng máy tính lúc đang auto

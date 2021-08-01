@@ -13,7 +13,7 @@ Yêu cầu (nếu bạn có file application .exe bỏ qua yêu cầu này) :
           pip install pyqt5
           pip install pyautogui
         
-
+Mở sẵn Client như hình.
 
 ![image](https://user-images.githubusercontent.com/49850839/127780699-4029f628-8524-4371-a687-74619165e01d.png)
 

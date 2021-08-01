@@ -8,7 +8,10 @@ Build file exe bằng cách sử dụng CMD:
 
 Yêu cầu (nếu bạn có file application .exe bỏ qua yêu cầu này) : 
    + Cài đặt Python 3 trên https://www.python.org/downloads/
-   + Cài đặt thư viện pyqt5 và pyautogui bằng cách: pip install pyqt5, pip install pyautogui
+   + Cài đặt thư viện pyqt5 và pyautogui bằng cách: 
+   
+          pip install pyqt5
+          pip install pyautogui
         
 Lưu ý:
    + tải tất cả các file về cho vào cùng 1 thư mục 

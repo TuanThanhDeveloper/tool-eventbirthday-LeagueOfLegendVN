@@ -16,12 +16,12 @@ class Worker(QObject):
 
     def do_work(self):
         f = open("birthday_code_league_of_legends.txt", 'r', encoding='utf-8')
-        x, y, h, w = pyautogui.locateOnScreen('code.png')
+        x, y, h, w = pyautogui.locateOnScreen('code.png') # thay x, y, h, w = 1200, 822, 107, 105 nếu không hoạt động
         pyautogui.click(x + h / 2, y + w / 2)
         pyautogui.write(f.readline())
         pyautogui.press('enter')
         pyautogui.sleep(1)
-        x1, y1, h1, t1 = pyautogui.locateOnScreen('ok.png')
+        x1, y1, h1, t1 = pyautogui.locateOnScreen('ok.png') # thay x1, y1, h1, t1 = 821, 700, 358, 73 nếu không hoạt động
         pyautogui.click(x1 + 30, y1 + 30)
         pyautogui.sleep(1)
         pyautogui.click(x1 + 30, y1 + 30)
